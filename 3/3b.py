@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  2 08:59:05 2021
-
-@author: steska
-"""
-
 import numpy as np
 
 data = np.genfromtxt("input", delimiter=1, dtype=int)
